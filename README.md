@@ -77,7 +77,7 @@ Interactive script that:
 ### 🔹 Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/oss-audit-24BCE10305.git
+git clone https://github.com/advay-demoE/oss-audit-24BCE10305.git
 cd oss-audit-24BCE10305
 ```
 
